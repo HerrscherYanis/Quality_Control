@@ -1,0 +1,56 @@
+{
+    "box" : [{
+        "ID" : 0,
+        "image" : "Box 0"
+    },{
+        "ID" : 1,
+        "image" : "Box 1"
+    },{
+        "ID" : 2,
+        "image" : "Box 2"
+    },{
+        "ID" : 3,
+        "image" : "Box 3"
+    },{
+        "ID" : 4,
+        "image" : "Box 4"
+    }],
+    "cake" : [{
+        "ID" : 0,
+        "image" : "Cake Blue"
+    },{
+        "ID" : 1,
+        "image" : "Cake Green"
+    },{
+        "ID" : 2,
+        "image" : "Cake Orange"
+    },{
+        "ID" : 3,
+        "image" : "Cake Purple"
+    },{
+        "ID" : 4,
+        "image" : "Cake Red"
+    },{
+        "ID" : 5,
+        "image" : "Cake Yellow"
+    }],
+    "gauntlet" : [{
+        "ID" : 0,
+        "image" : "Guard Glove"
+    },{
+        "ID" : 1,
+        "image" : "Ice Glove"
+    },{
+        "ID" : 2,
+        "image" : "Paladin Glove"
+    },{
+        "ID" : 3,
+        "image" : "Devil Glove"
+    },{
+        "ID" : 4,
+        "image" : "Archer Glove"
+    },{
+        "ID" : 4,
+        "image" : "Adventure Glove"
+    }]
+}
