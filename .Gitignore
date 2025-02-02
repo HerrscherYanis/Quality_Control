@@ -2,4 +2,9 @@
 README.md
 
 /Assets
-/Library
+/Library/ArtifactDB
+/Library/Artifacts
+/Library/Bee
+/Library/BurstCache
+/Library/ScriptAssemblies
+/Library/PackageCache
