@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638724400895105233
-    m_Hash: 467553065
+      ticks: 638741321429293367
+    m_Hash: 2964235389
   m_LockFileStatus:
     m_FilePath: C:/Users/yanis/Quality_Control/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638724400895140863
-    m_Hash: 83608205
+      ticks: 638741321429293367
+    m_Hash: 2474911775
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
